@@ -8,13 +8,13 @@ permalink:           /:title
 relative_permalinks: true
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
-tagline:             'tagline'
-description:         'description'
-url:                 site url
+timezone:            US/Raleigh # eg. Asia/Kathmandu
+locale:              en_us # eg. en_us
+name:				         Tale du Jour
+title:               Tale du Jour
+tagline:             'Experience Today'
+description:         'A collegiate view on traveling the world'
+url:                 bnm15.github.io
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
@@ -22,10 +22,10 @@ baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
 baseurl_javascripts: '/assets/javascripts/'
 icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
-disqus:              disqus_shortname # get it on https://disqus.com/admin/
+disqus:              taledujour # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
+  name:           	 Brenna Milligan
   url:            	 your site url
   facebook:          username
   twitter:           username
@@ -41,7 +41,7 @@ fb_appid:            your facebook app id
 # Server
 destination:      	 ./_site
 exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
-port:             	 9001
+port:             	 4000
 
 defaults:
   -
