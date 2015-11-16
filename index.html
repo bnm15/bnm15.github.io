@@ -11,7 +11,7 @@ title: Tale du Jour
       </h1>
       <div class="postMeta-wrapper postMeta-wrapper--frontpage">
         <ul class="postMeta">
-          <li class="postMeta-tagline">
+          <li class="postMeta-tagline" style="color: #262626">
             {{ site.tagline }}
           </li>
         </ul>
@@ -19,7 +19,7 @@ title: Tale du Jour
     </div>
   </div>
 </section>
-<section class="section--postsWrapper">
+<section class="section--postsWrapper" style="background: #fff">
   <div class="container">
     <div class="blockGroup">
       <ul class="blockGroup-list">
@@ -38,9 +38,9 @@ title: Tale du Jour
                   </div>
                 </a>
                 {% endif %}
-                <a class="postArticle-title" href="{{ post.url }}">{{ post.title }}</a>
+                <a class="postArticle-title" href="{{ post.url }}"><center>{{ post.title }}</center></a>
               </article>
-              <div class="block-postMeta">{{ post.date | date_to_string }}</div>
+              <div class="block-postMeta" style="color: #262626">{{ post.date | date_to_string }}</div>
             </div>
           </li>
         {% endfor %}

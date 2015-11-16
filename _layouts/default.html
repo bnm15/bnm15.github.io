@@ -12,13 +12,13 @@
 
     {{ content }}
 
-    {% if page.url != '/index.html' %}
       {% include sidebar-toggle.html %}
-    {% endif %}
 
     {% if page.url == '/index.html' %}
+    <hr />
       {% include subscribe.html %}
       {% include footer.html %}
+
     {% endif %}
 
     {% include footer-scripts.html %}

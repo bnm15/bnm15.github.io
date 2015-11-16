@@ -377,7 +377,7 @@ a {
 }
 
 a:hover {
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(83, 140, 198, 1);
 }
 
 /* Tables */
@@ -1651,6 +1651,7 @@ body {
 .section--frontpage,
 .section--frontpage ~ .post-featuredImage {
   height: 18rem;
+  background-color: #c6d9ec;
 }
 
 @media (max-width: 767px) {
@@ -2085,7 +2086,7 @@ body {
 
 .section--footer {
   width: 100%;
-  background: #fff;
+  background: #c6d9ec;
   padding: 1.5rem 0 3rem;
   position: relative;
   z-index: 400;

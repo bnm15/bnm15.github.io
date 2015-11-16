@@ -17,9 +17,10 @@ $brand-info:            #5bc0de !default;
 $brand-warning:         #f0ad4e !default;
 $brand-danger:          #d9534f !default;
 
-$body-bg:               #fff !default;
-$frontpage-body-bg:     #f2f2f2 !default;
+$body-bg:               #000 !default;
+$frontpage-body-bg:     #000000 default;
 $text-color:            rgba(0,0,0,0.8) !default;
+$header-footer:         #c6d9ec !default;
 
 $link-color:            $text-color !default;
 $link-hover-color:      darken($link-color, 15%) !default;
