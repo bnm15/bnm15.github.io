@@ -12,7 +12,7 @@ timezone:            US/Raleigh # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
 name:				         Tale du Jour
 title:               Tale du Jour
-tagline:             'Experience Today'
+tagline:             'A collegiate view on traveling the world'
 description:         'A collegiate view on traveling the world'
 url:                 bnm15.github.io
 rss:                 rss feed url
@@ -26,7 +26,7 @@ disqus:              taledujour # get it on https://disqus.com/admin/
 
 author:
   name:           	 Brenna Milligan
-  url:            	 your site url
+  url:            	 about
   facebook:          username
   twitter:           username
   google_plus:       username
