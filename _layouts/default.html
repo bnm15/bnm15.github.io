@@ -11,8 +11,9 @@
     {% endif %}
 
     {{ content }}
-
+    {% if page.url != '/index.html' %}
       {% include sidebar-toggle.html %}
+    {% endif %}
 
     {% if page.url == '/index.html' %}
     <hr />
