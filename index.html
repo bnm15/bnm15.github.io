@@ -38,9 +38,11 @@ title: Tale du Jour
                   </div>
                 </a>
                 {% endif %}
-                <a class="postArticle-title" href="{{ post.url }}"><center>{{ post.title }}</center></a>
-              </article>
-              <div class="block-postMeta" style="color: #262626">{{ post.date | date_to_string }}</div>
+                <center>
+                <a class="postArticle-title" href="{{ post.url }}" style="font-size: 30px;">{{ post.title }}</a>
+                <a class="postArticle-title" href="{{ post.url }}" style="font-size: 18px; color: #737373;">{{ post.date | date_to_string }}</a>
+              </center>
+            </article>
             </div>
           </li>
         {% endfor %}
