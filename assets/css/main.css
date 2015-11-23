@@ -98,6 +98,12 @@ img {
   border: 0;
 }
 
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 svg:not(:root) {
   overflow: hidden;
 }
@@ -1558,7 +1564,8 @@ body {
   height: 4.5rem;
   background: #333;
   overflow: hidden;
-  margin-bottom: 15px;
+  margin: auto;
+
 }
 
 .sidebar-recentPosts-image-wrapper img {
