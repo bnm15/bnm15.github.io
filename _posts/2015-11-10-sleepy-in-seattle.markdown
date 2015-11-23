@@ -8,7 +8,9 @@ categories: domestic
 tags:  travel
 image:
   feature: pike-place.jpg
-  topPosition: -350px
+  topPosition: -150px
+  topThumbnail: -90px
+  topNext: -350px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

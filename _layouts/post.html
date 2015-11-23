@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+</head>
 <article class="postWrapper">
   <section class="section--first is-darkBackgrounded u-table">
     <div class="section-backgroundImage">
@@ -23,7 +26,7 @@ layout: default
     "></div>
     <div class="section-title is-darkBackgrounded u-tableCell u-verticalAlignMiddle">
       <div class="container">
-        <h2>{{ page.title }}</h2>
+        <h2 style="font-family: 'Oswald', sans-serif;">{{ page.title }}</h2>
         <div class="postMeta-wrapper">
           <ul class="postMeta">
             <li class="postMeta-datetime">
@@ -68,7 +71,7 @@ layout: default
           {% if page.previous.image.feature %}
             src="{{ page.previous.image.feature | prepend: site.baseurl_featured_img }}"
           {% endif %}
-          style="top:0" alt="">
+          style="top: {{ page.previous.image.topNext }};" alt="">
         </div>
         <div class="section-gradient
         {% if page.previous.bgGradientOpacity == "darker" %}
@@ -81,7 +84,7 @@ layout: default
           <div class="container">
             <h4>Next story:</h4>
             <a class="prev" href="{{page.previous.url}}">
-              <h2>{{page.previous.title}}</h2>
+              <h2 style="font-family: 'Oswald', sans-serif;">{{page.previous.title}}</h2>
             </a>
           </div>
         </div>

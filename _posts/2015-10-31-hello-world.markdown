@@ -8,7 +8,9 @@ categories: lifestyle
 tags:  blog
 image:
   feature: lolla.jpg
-  topPosition: -400px
+  topPosition: -200px
+  topThumbnail: -60px
+  topNext: -250px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

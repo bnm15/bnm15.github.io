@@ -9,6 +9,8 @@ tags:  time
 image:
   feature: cemetary.jpg
   topPosition: -100px
+  topThumbnail: -50px
+  topNext: -200px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

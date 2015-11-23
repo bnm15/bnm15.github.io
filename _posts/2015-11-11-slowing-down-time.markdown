@@ -8,7 +8,9 @@ categories: lifestyle
 tags:  time
 image:
   feature: clock.jpg
-  topPosition: -1000px
+  topPosition: -500px
+  topThumbnail: -200px
+  topNext: -500px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

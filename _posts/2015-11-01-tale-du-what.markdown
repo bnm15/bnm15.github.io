@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tale du what?"
+title:  "Tale du What?"
 date:   2015-11-01 01:00:00
 date:   2015-11-01 01:00:00
 excerpt: "Why am I starting this blog, and what does Tale du Jour even mean..."
@@ -8,7 +8,9 @@ categories: lifestyle
 tags:  blog
 image:
   feature: diary.jpg
-  topPosition: -600px
+  topPosition: -200px
+  topThumbnail: -150px
+  topNext: -300px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
