@@ -527,7 +527,6 @@ body {
   padding: 0;
   text-indent: -100em;
   overflow: hidden;
-  width: 100%;
 }
 
 .textLogo--white {
@@ -2088,7 +2087,7 @@ body {
 .section--footer {
   width: 100%;
   background: #c6d9ec;
-  padding: 1.5rem 0 3rem;
+  padding: .5rem 0 .5rem;
   position: relative;
   z-index: 400;
   font-family: "Roboto", sans-serif;
@@ -2103,7 +2102,7 @@ body {
 .socialAccountList {
   list-style: none;
   margin: 1.5rem auto;
-  padding-left: 68px;
+  padding-left: 0px;
   width: 50%;
 }
 
