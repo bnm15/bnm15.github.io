@@ -22,7 +22,7 @@ The extent of my travel experience…hmm…Well, the furthest I’ve traveled is
 
 So what is Tale du Jour going to bring? Here’s what I’m hoping:
 
-* A daily update on my adventures, both spectacular and mundane
+* Regular updates on my adventures, both spectacular and mundane
 * My recommendations from my experiences
 * Advice for study abroad, including all the mistakes I make along the way
 
