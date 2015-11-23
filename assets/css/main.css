@@ -527,6 +527,7 @@ body {
   padding: 0;
   text-indent: -100em;
   overflow: hidden;
+  width: 100%;
 }
 
 .textLogo--white {
