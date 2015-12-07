@@ -9,7 +9,7 @@ tags:  time
 image:
   feature: clock.jpg
   topPosition: -500px
-  topThumbnail: -200px
+  topThumbnail: -500px
   topNext: -500px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -34,6 +34,6 @@ I had no idea a calendar would make me think this much, but I’m glad it did. I
 
 <hr></hr>
 
-<img src="/assets/images/location.png" height=20px width=20px/> Durham, NC, USA
+<center><img src="/assets/images/location.png" height=20px width=20px/> Durham, NC, USA</center>
 
 <hr></hr>

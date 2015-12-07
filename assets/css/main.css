@@ -1526,7 +1526,7 @@ body {
 .sidebar-recentPosts {
   list-style: none;
   margin: 1.5rem 0 0;
-  padding: 0;
+  padding-top: 0;
   font-size: 0.75rem;
 }
 

@@ -70,6 +70,6 @@ Finally I drove back to the airport, saying goodbye to my wonderful two day affa
 
 <hr></hr>
 
-<img src="/assets/images/location.png" height=20px width=20px/> Seattle, WA, USA
+<center><img src="/assets/images/location.png" height=20px width=20px/> Seattle, WA, USA</center>
 
 <hr></hr>

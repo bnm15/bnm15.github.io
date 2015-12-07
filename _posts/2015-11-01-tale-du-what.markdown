@@ -29,6 +29,6 @@ I thought it was great because most people will know what du jour means, simply 
 
 <hr></hr>
 
-<img src="/assets/images/location.png" height=20px width=20px/> Durham, NC, USA
+<center><img src="/assets/images/location.png" height=20px width=20px/> Durham, NC, USA</center>
 
 <hr></hr>
