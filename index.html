@@ -34,7 +34,7 @@ title: Tale du Jour
               <article class="postArticle postArticle--short">
                 {% if post.image.feature %}
                   <a href="{{ post.url }}">
-                    <div class="postArticle-image" style="background-image:url('{{ post.image.feature | prepend: site.baseurl_featured_img }}')">
+                    <div class="postArticle-image" style="background-image:url('{{ post.image.feature | prepend: site.baseurl_featured_thumbnail }}')">
                     </div>
                   </a>
                 {% else %}
