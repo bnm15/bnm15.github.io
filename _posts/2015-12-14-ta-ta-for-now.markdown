@@ -9,7 +9,7 @@ tags:  blog
 image:
   feature: chapel.jpg
   topPosition: 0px
-  topThumbnail: 0px
+  topThumbnail: 300px
   topNext: -250px
 bgContrast: dark
 bgGradientOpacity: darker
