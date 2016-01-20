@@ -58,7 +58,7 @@ From there, we entered the Moorish palace, which was huge and took about 1.5 to 
 <center><p style="font-size: 14px;">Me, showing you to my garden patio</p></center>
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/alhambra/reflection.jpg);"></div>
-<center><p style="font-size: 14px;">A lot of the architecture here used reflection in water to magnify the importance of the building, kind, and/or empire. In this case, it's me!</p></center>
+<center><p style="font-size: 14px;">A lot of the architecture here used reflection in water to magnify the importance of the building, king, and/or empire. In this case, it's me!</p></center>
 
 We climbed to the top of a guard tower in the oldest part of La Alhambra, the military base. The views from there were *insane*! 360 view of Granada!
 
