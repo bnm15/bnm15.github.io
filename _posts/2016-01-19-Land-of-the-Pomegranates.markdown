@@ -104,6 +104,6 @@ It was a long, long day, and it didn't end on the best note. Dealing with loss w
 
 <hr></hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> Chamberí, Madrid, España</center>
+<center><img src="/assets/images/location.png" height=20px width=20px/> Granada, Andalucía, España</center>
 
 <hr></hr>
