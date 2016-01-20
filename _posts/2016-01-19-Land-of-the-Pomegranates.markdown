@@ -22,7 +22,7 @@ I woke up early, showered, ate, and zipped up my new REI travel backpack, ready 
 <center><p style="font-size: 14px;">Outfit Du Jour!</p></center>
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/homeofthepomegranates/pepe.jpg);"></div>
-<center><p style="font-size: 14px;">A famous symbol of Tio Pepe Bodega (sheery)</p></center>
+<center><p style="font-size: 14px;">A famous symbol of Tio Pepe Bodega (sherry)</p></center>
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/homeofthepomegranates/toro.jpg);"></div>
 <center><p style="font-size: 14px;">Another famous symbol of the Osborne Bodega (sherry)</p></center>
