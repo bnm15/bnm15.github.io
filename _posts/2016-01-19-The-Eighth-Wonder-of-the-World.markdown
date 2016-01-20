@@ -83,7 +83,7 @@ We got back on the bus and made our way to Sevilla, around a 3 hour trip. We wer
 
 <hr></hr>
 
-<blockquote class="largeQuote">"Real loss is only possible when you love something more than you love yourself." - Robin Williams</blockquote>
+<blockquote class="largeQuote">"There is a serene and settled majesty to woodland scenery that enters into the soul and delights and elevates it, and fills it with noble inclinations." - Washington Irving</blockquote>
 
 <hr></hr>
 
