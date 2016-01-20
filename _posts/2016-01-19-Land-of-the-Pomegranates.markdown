@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Culture Shock Setting In"
+title:  "Land of the Pomegranates"
 date:   2016-01-19 01:00:00
 date:   2016-01-19 01:00:00
 excerpt: "Going to Granada..."
