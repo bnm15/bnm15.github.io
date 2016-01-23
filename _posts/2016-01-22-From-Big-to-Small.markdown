@@ -24,7 +24,7 @@ Then we had around 40 minutes of free time, so we got lunch even though it was l
 
 Next we did a tour of La Catedral with Fernando. We stepped inside and it brought back a lot of memories of a cathedral I went to I'm Barcelona. It's gothic style and has a ton of little chapels lining the edges, with a huge main altar in the middle. It was beautiful and so ornate. Also, Christopher Columbus's tomb and (partial) remains are there! Fernando told us that his body kept being moved around America before, and then back to Spain, and then some other Spanish place claimed that they had the real Christopher Columbus, so there was this huge investigation started by NASA and the EU etc to check if the body in Sevilla was the right one. Well, turns out it is, partially. A lot of body parts are missing they assume from all the movement of the body from before, and also there are bones of other people in there! He said people think these museums would take one of Columbus's bones and replace it with someone else's same bone before shipping it back off.
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/bigtosmall/01.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/bigtosmall/cat.jpg);"></div>
 <center><p style="font-size: 14px;">Outside the cathedral</p></center>
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/bigtosmall/02.jpg);"></div>
