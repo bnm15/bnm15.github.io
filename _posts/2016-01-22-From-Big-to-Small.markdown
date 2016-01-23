@@ -7,7 +7,7 @@ excerpt: "Traveling from Sevilla to Ronda..."
 categories: Sevilla, Ronda
 tags:  blog
 image:
-  feature: alhambra.jpg
+  feature: catedral.jpg
   topPosition: -100px
   topThumbnail: 2000px
   topNext: -250px
