@@ -24,6 +24,21 @@ Then we had around 40 minutes of free time, so we got lunch even though it was l
 
 Next we did a tour of La Catedral with Fernando. We stepped inside and it brought back a lot of memories of a cathedral I went to I'm Barcelona. It's gothic style and has a ton of little chapels lining the edges, with a huge main altar in the middle. It was beautiful and so ornate. Also, Christopher Columbus's tomb and (partial) remains are there! Fernando told us that his body kept being moved around America before, and then back to Spain, and then some other Spanish place claimed that they had the real Christopher Columbus, so there was this huge investigation started by NASA and the EU etc to check if the body in Sevilla was the right one. Well, turns out it is, partially. A lot of body parts are missing they assume from all the movement of the body from before, and also there are bones of other people in there! He said people think these museums would take one of Columbus's bones and replace it with someone else's same bone before shipping it back off.
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/bigtosmall/01.jpg);"></div>
+<center><p style="font-size: 14px;">Outside the cathedral</p></center>
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/bigtosmall/02.jpg);"></div>
+<center><p style="font-size: 14px;">Very gothic architecture</p></center>
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/bigtosmall/03.jpg);"></div>
+<center><p style="font-size: 14px;">This is the insane main altar</p></center>
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/bigtosmall/04.jpg);"></div>
+<center><p style="font-size: 14px;">Christopher Columbus's tomb</p></center>
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/bigtosmall/05.jpg);"></div>
+<center><p style="font-size: 14px;">Different style exhibited here</p></center>
+
 That was the end of our tour, and the end of the field trip. Eva, Nuria, Marcos, and Fernando said goodbye. I was really sad that Fernando wouldn't be with us anymore because he was so great! He was like a nice grandfather who you feel comfortable around no matter what. But, we weren't done, because we still had a little time to climb to the top of the cathedral and get another 360 view of Sevilla, this time in daylight. It was really pretty especially because at this time the sun had finally come out. The first time since we'd been there! We basically quickly snapped some pics and made our way back down so Connor could make his train on time.
 
 We headed back to the hotel, got our stuff, said bye to Connor, then Gaal and I went to find my bus because mine was leaving two hours earlier than his. It took me a while, and luckily I was early, because the entrance to the bus station is a tiny door on the side of a building. You'd think a bus station would be this huge open bus station, but it was a tiny door. Luckily I found it, asked other people where the bus to Ronda was, and I found it. I only waited for about 10 minutes before we boarded and then left!
