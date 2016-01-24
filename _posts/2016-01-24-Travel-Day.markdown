@@ -24,7 +24,7 @@ Pilar picked me up from Atoche and we ate dinner: lentil soup, salad, and salmon
 
 <hr></hr>
 
-<blockquote class="largeQuote">"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress." - Barack Obama</blockquote>
+<blockquote class="largeQuote">"The woman who does not require validation from anyone is the most feared individual on the planet." - Mohadesa Najumi</blockquote>
 
 <hr></hr>
 
