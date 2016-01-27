@@ -16,7 +16,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-*I took this picture from online because I didn't have any pictures of the school. It's not actually this springy here yet*
+<center>*I took this picture from online because I didn't have any pictures of the school. It's not actually this spring-y here yet*</center>
 
 School started this past Monday! Hooray!
 
@@ -51,6 +51,6 @@ Tomorrow I leave for Brussels. I'm not bringing my computer because it's really 
 
 <hr></hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> Ronda, Málaga, España</center>
+<center><img src="/assets/images/location.png" height=20px width=20px/> Chamberí, Madrid, España</center>
 
 <hr></hr>
