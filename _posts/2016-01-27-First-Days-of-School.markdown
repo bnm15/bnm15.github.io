@@ -16,6 +16,8 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
+*I took this picture from online because I didn't have any pictures of the school. It's not actually this springy here yet*
+
 School started this past Monday! Hooray!
 
 Just kidding, that's terrible. I'd love to just be in Spain for four months with no work. Hehe.
