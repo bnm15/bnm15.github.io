@@ -3,6 +3,9 @@
 markdown:            kramdown
 highlighter:         rouge
 
+# Permalinks
+permalink:           /:title
+
 # Setup
 timezone:            US/Raleigh # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
