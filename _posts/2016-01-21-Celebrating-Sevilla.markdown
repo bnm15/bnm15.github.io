@@ -7,8 +7,8 @@ excerpt: "Third largest city in Spain..."
 categories: Sevilla
 tags:  blog
 image:
-  feature: sevilla.jpg
-  topPosition: 00px
+  feature: sev.jpg
+  topPosition: 0px
   topThumbnail: 2000px
   topNext: -250px
 bgContrast: dark
