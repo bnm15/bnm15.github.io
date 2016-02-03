@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Brussels and Bruges"
-date:   2016-01-27 01:00:00
-date:   2016-01-27 01:00:00
+date:   2016-02-01 01:00:00
+date:   2016-02-01 01:00:00
 excerpt: "My first weekend adventure..."
 categories: Brussels
 tags:  blog
 image:
   feature: bruges.jpg
-  topPosition: -100px
+  topPosition: 0px
   topThumbnail: 2000px
   topNext: -250px
 bgContrast: dark
