@@ -7,7 +7,7 @@ excerpt: "Third largest city in Spain..."
 categories: Sevilla
 tags:  blog
 image:
-  feature: alcazar.jpg
+  feature: sevilla.jpg
   topPosition: 00px
   topThumbnail: 2000px
   topNext: -250px
