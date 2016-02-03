@@ -30,7 +30,7 @@ We were super hungry, and we decided to get something we found along the way. We
 
 Before we got to Brussels, I knew there was this bar called Delirium that has over 3,000 types of beer, so we went there right away. They had about 32 beers on tap, so we ordered some of them and took them to a table. I don't know a lot about beer, but I know I liked the ones I had! The place was super cool, and packed with people. Delirium is like a huge producer of beer in Belgium, and it has its own allyway where there's also an absynth bar and a tequila bar that have 50/100+ types of their drinks. We did not go into those places, haha!
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/celebratingsevilla/01.JPG);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/brusselsandbruges/01.JPG);"></div>
 <center><p style="font-size: 14px;">The on tap beers at Delirium</p></center>
 
 Afterwards, we wanted fries again, so we walked into the only place that was open and got fries. This will be the second of many, many times.
