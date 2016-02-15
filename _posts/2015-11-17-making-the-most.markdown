@@ -44,6 +44,7 @@ I guess all I can do is experience everything as it comes, not passing judgement
 
 <hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> Durham, NC, USA</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) Durham, NC, USA
 
 <hr>

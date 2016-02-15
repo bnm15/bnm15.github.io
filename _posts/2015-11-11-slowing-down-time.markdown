@@ -34,6 +34,7 @@ I had no idea a calendar would make me think this much, but I’m glad it did. I
 
 <hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> Durham, NC, USA</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) Durham, NC, USA
 
 <hr>

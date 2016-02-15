@@ -12,7 +12,7 @@ tagline:             'A collegiate view on traveling the world'
 description:         'A collegiate view on traveling the world'
 url:                 taledujour.com
 rss:                 rss feed url
-baseurl:             '/'
+baseurl:             'taledujour.com/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'

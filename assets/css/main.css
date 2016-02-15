@@ -9,6 +9,13 @@ body {
   margin: 0;
 }
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
 article,
 aside,
 details,

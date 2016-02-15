@@ -40,6 +40,7 @@ This feels like a very temporary frustration, because today I happened to have a
 
 <hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> Chamberí, Madrid, España</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) Chamberí, Madrid, España
 
 <hr>

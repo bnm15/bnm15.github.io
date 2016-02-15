@@ -34,6 +34,7 @@ Recently everyone's been asking me how excited I am to leave to go abroad. Usual
 
 <hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> Durham, NC, USA</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) Durham, NC, USA
 
 <hr>

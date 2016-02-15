@@ -112,6 +112,7 @@ Enough about that. Who knew I'd end up writing novels for each of these blog pos
 
 <hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> Ronda, Málaga, España</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) Ronda, Málaga, España
 
 <hr>

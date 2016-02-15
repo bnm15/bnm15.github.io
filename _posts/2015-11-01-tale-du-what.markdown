@@ -29,6 +29,7 @@ I thought it was great because most people will know what du jour means, simply 
 
 <hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> Durham, NC, USA</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) Durham, NC, USA
 
 <hr>

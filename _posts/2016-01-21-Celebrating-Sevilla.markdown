@@ -106,6 +106,7 @@ After that, we were close enough to the river and it was early enough that we de
 
 <hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> Sevilla, Sevilla, España</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) Sevilla, Sevilla, España
 
 <hr>

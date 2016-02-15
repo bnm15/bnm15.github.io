@@ -36,6 +36,7 @@ In the end, I’m hoping to create a memory book for myself when I’m old and r
 
 <hr>
 
-<center><img src="/assets/images/location.jpg" height=20px width=20px/> Durham, NC, USA</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) Durham, NC, USA
 
 <hr>

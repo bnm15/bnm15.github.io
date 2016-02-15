@@ -47,6 +47,7 @@ I AM SO EXCITED FOR THIS YEAR.
 
 <hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> Arlington Heights, IL, USA</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) Arlington Heights, IL, USA
 
 <hr>

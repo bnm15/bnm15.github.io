@@ -82,6 +82,7 @@ I spent a good hour and a half in that place, and went back to my Airbnb house. 
 
 <hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> Sevilla, Sevilla, España</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) Sevilla, Sevilla, España
 
 <hr>

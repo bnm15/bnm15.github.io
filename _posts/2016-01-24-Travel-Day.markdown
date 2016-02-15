@@ -28,6 +28,7 @@ Pilar picked me up from Atoche and we ate dinner: lentil soup, salad, and salmon
 
 <hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> Ronda, Málaga, España</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) Ronda, Málaga, España
 
 <hr>

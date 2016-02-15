@@ -124,6 +124,7 @@ Overall, I liked being in Brussels for 3 days. I didn't really have a plan befor
 
 <hr>
 
-<center><img src="{{ site.baseurl }}assets/images/location.png" height=20px width=20px/> Brussels, Belgium</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) Brussels, Belgium
 
 <hr>

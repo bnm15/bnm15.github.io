@@ -111,6 +111,7 @@ Now I am off to bed, ready for another day of orientation tomorrow. Chau!
 
 <hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> Chamberí, Madrid, España</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) Chamberí, Madrid, España
 
 <hr>

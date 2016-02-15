@@ -105,6 +105,7 @@ I ordered a Dutch pancake with bacon, apples, cinnamon, and raisins (it was thei
 
 <hr>
 
-<center><img src="{{ site.baseurl }}assets/images/location.png" height=20px width=20px/> Amsterdam, Holland, The Netherlands</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) Amsterdam, Holland, The Netherlands
 
 <hr>

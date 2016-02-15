@@ -32,6 +32,7 @@ There are so many kids here that are clearly going to study abroad (I'm pretty s
 
 <hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> O'Hare International Airport, IL, USA</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) O'Hare International Airport, IL, USA
 
 <hr>

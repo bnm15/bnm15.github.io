@@ -67,6 +67,7 @@ While I was out, meeting Michael's friends and spending time with one of my best
 
 <hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> Chamberí, Madrid, España</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) Chamberí, Madrid, España
 
 <hr>

@@ -104,6 +104,7 @@ It was a long, long day, and it didn't end on the best note. Dealing with loss w
 
 <hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> Granada, Andalucía, España</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) Granada, Andalucía, España
 
 <hr>

@@ -87,6 +87,7 @@ We got back on the bus and made our way to Sevilla, around a 3 hour trip. We wer
 
 <hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> La Alhambra, Granada, España</center>
+{: .center-image}
+![Location]({{ site.baseurl }}assets/images/location.png) La Alhambra, Granada, España
 
 <hr>
