@@ -38,6 +38,12 @@ The Red Light District is a street lined with glass doors where women prostitute
 
 We planned on waking up early to get breakfast before the other girls came, but we all overslept so we just waited for everyone else to come before we left with them. We ended up getting burgers for breakfast because it was really noon and we all wanted burgers so badly! There are burger shops everywhere. I hadn't had a burger in so long, it was absolute heaven. I could've had 1000 of them. Then we went to a cafe, and made it our goal to see the I Amsterdam sign. We meandered our way through the city, stopping every once in a while to see something. We stopped in a cheese shop where they had samples of about 10 cheese, so of course we all tried them all and they were *delicious*. Not a single one was bad!!! Our favorite was the truffle cheese, for obviously reasons!
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/amsterdam/16.jpg);"></div>
+<center><p style="font-size: 14px;">Pano of the Iamsterdam sign</p></center>
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/amsterdam/17.jpg);"></div>
+<center><p style="font-size: 14px;">DAM we are good looking!</p></center>
+
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/amsterdam/02.jpg);"></div>
 <center><p style="font-size: 14px;">A street in Amsterdam</p></center>
 
