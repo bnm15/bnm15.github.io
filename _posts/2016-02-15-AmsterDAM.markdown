@@ -8,8 +8,8 @@ categories: Amsterdam
 tags:  blog
 image:
   feature: amsterdam.jpg
-  topPosition: 0px
-  topThumbnail: 2000px
+  topPosition: -100px
+  topThumbnail: 300px
   topNext: -250px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -28,6 +28,9 @@ I landed on Thursday night, took the train into central Amsterdam, and met up wi
 
 I got to my hostel room, which was similar to the last hostel we stayed in. Then we went back across the river into Amsterdam. We first stopped to get fries because we were all hungry, and missing the Belgian fries. We tried a new sauce called samurai, which is basically just spicy mayo, and it was **amazing**, probably the best sauce I've had the whole time! Next we went to a cafe to warm up a bit, then walked down the Red Light District.
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/amsterdam/15.jpg);"></div>
+<center><p style="font-size: 14px;">This is the story of my life</p></center>
+
 The Red Light District is a street lined with glass doors where women prostitutes stand provocatively and seek out their next client. It's illegal to take pictures there. I knew what it was in theory, but it's shocking to see in real life. I know it's legal there, but I still hope none of them are forced into that job somehow. It's also really disturbing to see men actually go inside, sorry if it's graphic, but it's so gross. After that we were all really tired so we just went to the hostel and to bed!
 
 We planned on waking up early to get breakfast before the other girls came, but we all overslept so we just waited for everyone else to come before we left with them. We ended up getting burgers for breakfast because it was really noon and we all wanted burgers so badly! There are burger shops everywhere. I hadn't had a burger in so long, it was absolute heaven. I could've had 1000 of them. Then we went to a cafe, and made it our goal to see the I Amsterdam sign. We meandered our way through the city, stopping every once in a while to see something. We stopped in a cheese shop where they had samples of about 10 cheese, so of course we all tried them all and they were *delicious*. Not a single one was bad!!! Our favorite was the truffle cheese, for obviously reasons!
@@ -44,6 +47,9 @@ We also stopped at a pop up flea market, which at the time was mostly just selli
 <center><p style="font-size: 14px;">The map stand at the flea market</p></center>
 
 After that, we continued on, and finally came across the I Amsterdam sign! We took a lot of pictures on it, which was super fun because we got to climb on top of the letters and everyone who studies abroad has one of those pictures so we felt accomplished. That sign is also at the park that has the Van Gogh, Rembrandt and other museums, all lining a huge park. We didn't go to any museums, but we sat in the park for a while watching the sun go down.
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/amsterdam/amsterdam.jpg);"></div>
+<center><p style="font-size: 14px;">Me on another bike. We never actually rode bikes, I just stoof on ones that were locked to the bridges haha</p></center>
 
 We went back to the hostel, as we always do, for a quick power nap before going out for the night. Those naps are almost the best part of these trips (just kidding). But that hit the spot, and we headed out again. We had tickets to go to the Ice Bar Amsterdam, so we went there first. It was so cool (hehe)! The bar was pirate themed, which was a little random, but before going in we got to have a drink called the Amsterdamed which was soooo good we all sucked it down instantly. It was vodka with cranberry juicy, peach juice, and lime. Then it was our time to go in, so we put on our gloves and huge overcoats that they give you and went inside. It was SO cold, so much colder than we were all expecting. It was about -9 degrees Celsius. Inside, we got two drinks, so we got whipped cream vodka with orange juice which tasted like a melted dreamsicle and this other one called nuts and nougat that tasted like Nutella. I don't know what that place does, but their drinks were absolutely delicious. Actually the whole weekend we were saying we should get the whipped cream vodka and orange juice ourselves because it was so good!
 
@@ -64,9 +70,6 @@ When we left, we decided we didn't want to do the tour that day either because w
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/amsterdam/11.jpg);"></div>
 <center><p style="font-size: 14px;">Cheese Museum!!! Yes please!</p></center>
-
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/amsterdam/10.jpg);"></div>
-<center><p style="font-size: 14px;">Dressed up in the cheese museum</p></center>
 
 We overslept then, too, because we all needed to nap a lot. The girls slept in the airport two nights before because the Metro didn't open early enough for their flight, so they especially were super pooped. We took our nice, long nap, and then got going. I found a restaurant close by called Skek that was run by students, serves Dutch food and beer, and gives 25% off to students. Unfortunately when we got there, it was all full. So instead we went to another chain we had seen all weekend and wanted desperately, Wok to Walk. It's Asian stir fry and exactly what we needed. Obviously we didn't really eat Dutch food, but Dutch food is like not remarkable, so I'm okay with that. We hadn't tasted Asian flavors in so long, when we were all eating our stir fry we were in complete silence because we were so into our food. Do you see a pattern here? Lots of eating. But, I also talk a lot about eating because we don't like to spend money so a lot of times we just wander around the streets instead of going to an interesting museum or whatever. So, there's not a lot to tell about the in between time.
 
