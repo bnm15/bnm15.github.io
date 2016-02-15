@@ -36,6 +36,6 @@ In the end, I’m hoping to create a memory book for myself when I’m old and r
 
 <hr>
 
-<center><img src="/assets/images/location.png" height=20px width=20px/> Durham, NC, USA</center>
+<center><img src="/assets/images/location.jpg" height=20px width=20px/> Durham, NC, USA</center>
 
 <hr>
