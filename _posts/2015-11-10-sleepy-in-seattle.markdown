@@ -64,12 +64,12 @@ A last to-do I have for you is to drive from Bellevue to Seattle through Mercer 
 
 Finally I drove back to the airport, saying goodbye to my wonderful two day affair with the city. I don’t know when I’ll be back, but I’m looking forward to it.
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">“We are all alone, born alone, die alone, and – in spite of True Romance magazines – we shall all someday look back on our lives and see that, in spite of our company, we were alone the whole way…This is what makes your self-respect so important, and I don’t see how you can respect yourself if you must look in the hearts and minds of others for your happiness.” - Hunter S. Thompson</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Seattle, WA, USA</center>
 
-<hr></hr>
+<hr>

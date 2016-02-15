@@ -28,12 +28,12 @@ Maybe this is why it was so hard for me to focus on anything the last two days h
 
 Recently everyone's been asking me how excited I am to leave to go abroad. Usually I tried to muster up enough emotion to satisfy them, but at this point I am making room for sadness. I don't feel compelled to feel thrilled because there will be a time for that, like when I'm on the plane ride there. Right now, I need my time to breathe in my last breaths of sweet Carolina air and let the moroseness wash over me.
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">“This morning, with her, having coffee.” - Johnny Cash</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Durham, NC, USA</center>
 
-<hr></hr>
+<hr>

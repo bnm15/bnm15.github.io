@@ -30,12 +30,12 @@ So what is Tale du Jour going to bring? Here’s what I’m hoping:
 
 In the end, I’m hoping to create a memory book for myself when I’m old and reminiscing and impact any readers like yourself that are looking to learn from everything the world has to offer.
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">“I wonder how many people I’ve looked at all my life and never seen.” - John Steinbeck</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Durham, NC, USA</center>
 
-<hr></hr>
+<hr>

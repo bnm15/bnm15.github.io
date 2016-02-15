@@ -100,12 +100,12 @@ After that, we were close enough to the river and it was early enough that we de
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/celebratingsevilla/20.JPG);"></div>
 <center><p style="font-size: 14px;">Guadalquivir River's bridge at night</p></center>
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">"Beauty begins the moment you decide to be yourself." - Coco Chanel</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Sevilla, Sevilla, España</center>
 
-<hr></hr>
+<hr>

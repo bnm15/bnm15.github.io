@@ -38,12 +38,12 @@ Maybe there is no answer. At least, no right answer. But what am I do to? What a
 I guess all I can do is experience everything as it comes, not passing judgement on the speed of time. It's okay to be both excited and anxious. The world won't stop because of me, but it also won't leave me behind.
 
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">“Live on coffee and flowers; try not to wonder what the weather will be.” - The National</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Durham, NC, USA</center>
 
-<hr></hr>
+<hr>

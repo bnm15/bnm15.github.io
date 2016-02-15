@@ -34,12 +34,12 @@ I know I'm complaining, but I'm also capturing the feelings of frustration that 
 
 This feels like a very temporary frustration, because today I happened to have a lot of planning to do and a lot of stress on my mind, but I did feel these things. Here's to a better tomorrow!!
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">"If you don't like something, change it. If you can't change it, change your attitude." - Maya Angelou</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Chamberí, Madrid, España</center>
 
-<hr></hr>
+<hr>

@@ -106,12 +106,12 @@ Just to let you know, all this food (three tapas and two cups of wine for one pe
 
 Enough about that. Who knew I'd end up writing novels for each of these blog posts. I walked home, tried to figure out why pictures weren't showing up in my previous posts, and went to bed. Good night Ronda!
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress." - Barack Obama</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Ronda, Málaga, España</center>
 
-<hr></hr>
+<hr>

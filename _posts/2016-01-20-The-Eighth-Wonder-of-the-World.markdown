@@ -81,12 +81,12 @@ We went back to our hotel area to eat lunch with Connor, Gaal, Eva, Nuria, and F
 We got back on the bus and made our way to Sevilla, around a 3 hour trip. We were all exhausted and totally passed out until we got there. We did a quick tour around Sevilla in the bus, of course I never knew where we were, but it was pretty. It seems like it looks a lot older than Granada and Madrid. I'm sure that means it has more character. We'll have to see tomorrow!
 
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">"There is a serene and settled majesty to woodland scenery that enters into the soul and delights and elevates it, and fills it with noble inclinations." - Washington Irving</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> La Alhambra, Granada, España</center>
 
-<hr></hr>
+<hr>

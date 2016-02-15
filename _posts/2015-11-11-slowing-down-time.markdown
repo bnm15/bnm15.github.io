@@ -28,12 +28,12 @@ Looking at the calendar every day would remind me that I only have this many wee
 
 I had no idea a calendar would make me think this much, but I’m glad it did. It’s good that it showed me the layout of my time, but I won’t be opening that spreadsheet again.
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">“And in that moment, I swear we were infinite.” - Stephen Chbosky</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Durham, NC, USA</center>
 
-<hr></hr>
+<hr>

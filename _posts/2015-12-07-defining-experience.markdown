@@ -30,12 +30,12 @@ I also am looking forward to learning lessons applicable to my career. I want to
 
 I think my definition of “living” and “experiencing” another culture is never letting myself live passively. I’m so excited to absorb everything I can from my surroundings and truly be living in the moment.
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">“Three people walk together, there must be a teacher of mine among them.” - Confucius</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Durham, NC, USA</center>
 
-<hr></hr>
+<hr>

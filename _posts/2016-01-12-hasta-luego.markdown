@@ -26,12 +26,12 @@ I'm glad the flight to Europe is long. It let's us decompress, think about what'
 
 There are so many kids here that are clearly going to study abroad (I'm pretty sure my whole flight is just college kids), and it's making me excited seeing everyone nervous and antsy together. This is going to be a real doozy, but it's a doozy I can't wait to take on.
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">“Don't forget to fall in love with yourself first.” - Carrie Bradshaw</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> O'Hare International Airport, IL, USA</center>
 
-<hr></hr>
+<hr>

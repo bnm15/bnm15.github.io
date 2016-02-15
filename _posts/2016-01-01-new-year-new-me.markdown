@@ -41,12 +41,12 @@ I don't know about you, but that seems like a good list to me. 2016 is going to 
 
 I AM SO EXCITED FOR THIS YEAR.
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">“Tomorrow is the first page of a 366 page book. Write a good one.” - Brad Paisley</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Arlington Heights, IL, USA</center>
 
-<hr></hr>
+<hr>

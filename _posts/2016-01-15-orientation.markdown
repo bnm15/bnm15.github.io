@@ -55,12 +55,12 @@ I was really tired when I got home, so I watched Breakfast at Tiffany's in Spani
 
 This is my third night going out. We went to Sol again, I met some people from University of Minnesota and SMU. So many students here, I'm almost worried about practicing my Spanish more!
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">“Anyone who ever gave you confidence, you owe them a lot.” - Paul Varjak</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Chamberí, Madrid, España</center>
 
-<hr></hr>
+<hr>

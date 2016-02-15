@@ -76,12 +76,12 @@ I spent a good hour and a half in that place, and went back to my Airbnb house. 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/bigtosmall/12.jpg);"></div>
 <center><p style="font-size: 14px;">My snap chat while watching Baker Boys</p></center>
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">"And those who were seen dancing were thought to be insane by those who could not hear the music." - Friedrich Nietzsch</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Sevilla, Sevilla, España</center>
 
-<hr></hr>
+<hr>

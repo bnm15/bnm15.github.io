@@ -23,12 +23,12 @@ If you know me, you know I am obsessed with France, French people, Parisians, cr
 
 I thought it was great because most people will know what du jour means, simply because it’s on some French menus. If you don’t, it means of the day. Essentially I’m entitling this blog Tale of the Day because I want to write daily and demonstrate my reverence to the French. Who knows, maybe #ODJ will replace #OOTD. :)
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">“Ajoutez deux lettres à Paris: c’est le paradis.” - Jules Renard</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Durham, NC, USA</center>
 
-<hr></hr>
+<hr>

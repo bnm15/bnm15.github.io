@@ -33,6 +33,9 @@ I got to my hostel room, which was similar to the last hostel we stayed in. Then
 
 The Red Light District is a street lined with glass doors where women prostitutes stand provocatively and seek out their next client. It's illegal to take pictures there. I knew what it was in theory, but it's shocking to see in real life. I know it's legal there, but I still hope none of them are forced into that job somehow. It's also really disturbing to see men actually go inside, sorry if it's graphic, but it's so gross. After that we were all really tired so we just went to the hostel and to bed!
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/amsterdam/02.jpg);"></div>
+<center><p style="font-size: 14px;">A street in Amsterdam</p></center>
+
 We planned on waking up early to get breakfast before the other girls came, but we all overslept so we just waited for everyone else to come before we left with them. We ended up getting burgers for breakfast because it was really noon and we all wanted burgers so badly! There are burger shops everywhere. I hadn't had a burger in so long, it was absolute heaven. I could've had 1000 of them. Then we went to a cafe, and made it our goal to see the I Amsterdam sign. We meandered our way through the city, stopping every once in a while to see something. We stopped in a cheese shop where they had samples of about 10 cheese, so of course we all tried them all and they were *delicious*. Not a single one was bad!!! Our favorite was the truffle cheese, for obviously reasons!
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/amsterdam/02.jpg);"></div>

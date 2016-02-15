@@ -98,12 +98,12 @@ After we finished churros, we went to the bar, called Chupiteria69. That literal
 
 It was a long, long day, and it didn't end on the best note. Dealing with loss while you are gone from home is really hard, especially knowing you won't return for months. I'm glad to know that my grandpa passed peacefully, and that my mom is a strong woman who loves her dad very much and got to visit him a lot before today. Grandpa Ha, rest in peace.
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">"Real loss is only possible when you love something more than you love yourself." - Robin Williams</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Granada, Andalucía, España</center>
 
-<hr></hr>
+<hr>

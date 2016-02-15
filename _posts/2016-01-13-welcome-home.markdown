@@ -61,12 +61,12 @@ While I was out, meeting Michael's friends and spending time with one of my best
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}spain/welcomehome/snapchat.jpg);"></div>
 <center><p style="font-size: 14px;">The beautiful Madrid snap chat filter! (One of many)</p></center>
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">“Kindness is a language that the deaf can hear and the blind can see.” - Mark Twain</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Chamberí, Madrid, España</center>
 
-<hr></hr>
+<hr>

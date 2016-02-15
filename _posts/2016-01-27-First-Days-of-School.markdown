@@ -45,12 +45,12 @@ After hanging out with her, I met up with a girl who gave us a tour of UC3M, bec
 Tomorrow I leave for Brussels. I'm not bringing my computer because it's really unnecessary, but I'm going to try to write some blog posts on my phone and then post them when I get back. I'm excited for my first trip!
 
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">"The future depends on what you do today." - Mahatma Gandhi</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Chamberí, Madrid, España</center>
 
-<hr></hr>
+<hr>

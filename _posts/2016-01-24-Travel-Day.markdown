@@ -22,12 +22,12 @@ I left around noon to get on my bus back to Sevilla. I was sad to leave, but als
 
 Pilar picked me up from Atoche and we ate dinner: lentil soup, salad, and salmon with honey onions. Then I met up with Michael and some of his friends to go to a karaoke bar, which was horrible, so we ended up just leaving after about an hour to go home. That's fine with me, because I have to wake up at 7:30 tomorrow for my first class! Wish me luck!
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">"The woman who does not require validation from anyone is the most feared individual on the planet." - Mohadesa Najumi</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Ronda, Málaga, España</center>
 
-<hr></hr>
+<hr>

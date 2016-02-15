@@ -105,12 +105,12 @@ Michael left, and I research on where I should stay this upcoming weekend after 
 
 Now I am off to bed, ready for another day of orientation tomorrow. Chau!
 
-<hr></hr>
+<hr>
 
 <blockquote class="largeQuote">"If we bring a little joy into your humdrum lives, it makes us feel as though our hard work ain't been in vain for nothin'. Bless you all.” - Lina Lamont</blockquote>
 
-<hr></hr>
+<hr>
 
 <center><img src="/assets/images/location.png" height=20px width=20px/> Chamberí, Madrid, España</center>
 
-<hr></hr>
+<hr>
