@@ -7,7 +7,7 @@ excerpt: "How much do I really remember..."
 categories: Munich
 tags:  blog
 image:
-    feature: 
+    feature: blah.jpg
     topPosition: -150px
 bgContrast: dark
 bgGradientOpacity: darker

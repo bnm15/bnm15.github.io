@@ -7,7 +7,7 @@ excerpt: "So happy to reunite..."
 categories: Barcelona
 tags:  blog
 image:
-    feature: 
+    feature: blah.jpg
     topPosition: -150px
 bgContrast: dark
 bgGradientOpacity: darker

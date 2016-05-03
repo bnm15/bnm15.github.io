@@ -7,7 +7,7 @@ excerpt: "Absolutely in love with Rome..."
 categories: Rome
 tags:  blog
 image:
-    feature: 
+    feature: blah.jpg
     topPosition: -150px
 bgContrast: dark
 bgGradientOpacity: darker

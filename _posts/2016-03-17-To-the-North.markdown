@@ -7,7 +7,7 @@ excerpt: "It's like a whole new country'..."
 categories: Santander, Bilbao, San Sebastian
 tags:  blog
 image:
-    feature: 
+    feature: blah.jpg
     topPosition: -150px
 bgContrast: dark
 bgGradientOpacity: darker

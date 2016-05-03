@@ -7,7 +7,7 @@ excerpt: "See my side of town..."
 categories: Madrid
 tags:  blog
 image:
-    feature: 
+    feature: blah.jpg
     topPosition: -150px
 bgContrast: dark
 bgGradientOpacity: darker

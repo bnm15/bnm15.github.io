@@ -7,7 +7,7 @@ excerpt: "Less than 24 hours..."
 categories: Venice
 tags:  blog
 image:
-    feature: 
+    feature: blah.jpg
     topPosition: -150px
 bgContrast: dark
 bgGradientOpacity: darker

@@ -7,7 +7,7 @@ excerpt: "Could I get a redo on this one..."
 categories: Florence
 tags:  blog
 image:
-    feature: 
+    feature: blah.jpg
     topPosition: -150px
 bgContrast: dark
 bgGradientOpacity: darker
