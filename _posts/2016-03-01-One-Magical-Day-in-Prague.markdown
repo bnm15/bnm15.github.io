@@ -14,6 +14,8 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
+*Technically I am writing this on May 3, 2016, because I got lazy in writing my posts, however, better late than never!*
+
 24 hours; one city; GO.
 
 Basically how we were upon arriving in Prague. We took an overnight bus from Budapest to Prague which was about 7 hours, and just rough overall. Looking back I'd say it's worth it so that we could spend the most time in each city, it was cheap, and we didn't have to pay for a hostel that night. However, living through it was rough. Luckily, I invested in sleeping pills so we took those to help us konk out on the way. I put in my earbuds, put my beanie over my eyes, and tried to get comfortable. I woke up a few times because we made stops so the drivers could smoke (a lot of those stops) and a few to pick people up. Everytime I heard people come on the bus I would stretch out my legs really far so that no one would sit by me. Like I said in my previous post, we were the first ones on the bus, so we all took a row to ourselves to make it more comfortable.
