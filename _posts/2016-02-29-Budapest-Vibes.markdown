@@ -7,10 +7,10 @@ excerpt: "Cold and historic..."
 categories: Budapest
 tags:  blog
 image:
-feature: budapest.jpg
-topPosition: -100px
-topThumbnail: 300px
-topNext: -250px
+    feature: budapest.jpg
+    topPosition: -100px
+    topThumbnail: 300px
+    topNext: -250px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

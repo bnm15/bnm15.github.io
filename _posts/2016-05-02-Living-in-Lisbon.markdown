@@ -7,10 +7,10 @@ excerpt: "Taking a real vacation..."
 categories: Lisbon
 tags:  blog
 image:
-feature: lisbon.jpg
-topPosition: 0px
-topThumbnail: 0px
-topNext: -250px
+    feature: lisbon.jpg
+    topPosition: 0px
+    topThumbnail: 0px
+    topNext: -250px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
