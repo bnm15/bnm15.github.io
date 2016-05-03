@@ -8,8 +8,8 @@ categories: Lisbon
 tags:  blog
 image:
     feature: lisbon.jpg
-    topPosition: 0px
-    topThumbnail: 0px
+    topPosition: -200px
+    topThumbnail: -100px
     topNext: -250px
 bgContrast: dark
 bgGradientOpacity: darker

@@ -8,7 +8,7 @@ categories: Budapest
 tags:  blog
 image:
     feature: budapest.jpg
-    topPosition: -100px
+    topPosition: -150px
     topThumbnail: 300px
     topNext: -250px
 bgContrast: dark
