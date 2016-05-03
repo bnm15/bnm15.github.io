@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Budapest Vibes"
-date:   2016-03-29 01:00:00
-date:   2016-03-29 01:00:00
+date:   2016-02-29 01:00:00
+date:   2016-02-29 01:00:00
 excerpt: "Cold and historic..."
 categories: Budapest
 tags:  blog
