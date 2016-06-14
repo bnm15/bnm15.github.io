@@ -61,6 +61,6 @@ Overall, Portland was cool. We didn't have a lot of time to see it, and I have a
 <hr>
 
 {: .center-image}
-![Location]({{ site.baseurl }}assets/images/location.png) Munich, Bavaria, Germany
+![Location]({{ site.baseurl }}assets/images/location.png) Portland, Oregon, USA
 
 <hr>

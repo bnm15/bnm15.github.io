@@ -14,7 +14,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-*Technically I am writing this on May 3, 2016, because I got lazy in writing my posts, however, better late than never!*
+*Technically I am writing this on June 13, 2016, because I got lazy in writing my posts, however, better late than never!*
 
 
 
