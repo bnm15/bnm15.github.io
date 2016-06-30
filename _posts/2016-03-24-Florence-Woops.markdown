@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Florence, Whoops"
-date:   2016-03-24 01:00:00
-date:   2016-03-24 01:00:00
+date:   2016-03-23 00:00:00
+date:   2016-03-23 00:00:00
 excerpt: "Could I get a redo on this one..."
 categories: Florence
 tags:  blog
