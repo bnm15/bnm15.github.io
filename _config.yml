@@ -10,7 +10,7 @@ name:				         Tale du Jour
 title:               Tale du Jour
 tagline:             'A collegiate view on traveling the world'
 description:         'A collegiate view on traveling the world'
-url:                 taledujour.com
+url:                 bnm15.github.io
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
